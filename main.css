@@ -34,3 +34,9 @@ div p i, div small {
        color: green;
        text-decotation: none
 }
+
+#text1:hover {
+             color: black;
+             text-decotation: uderline;
+             text-decotation-color: black;
+             cursor: pointer                         

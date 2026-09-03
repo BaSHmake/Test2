@@ -13,3 +13,7 @@ h3 {
 div b {
       color: pink
 }
+
+div p i, div small {
+                   color: purple
+}

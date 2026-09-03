@@ -17,3 +17,13 @@ div b {
 div p i, div small {
                    color: purple
 }
+
+#test {
+      color: red;
+      text-decotation: none
+}
+
+#test:hover {
+            color: blue;
+            text-decotation: 
+}

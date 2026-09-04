@@ -45,3 +45,14 @@ div p i, div small {
               text-decotation: line-through;
               text-decotation-color: grey
 }
+
+#test:active {
+              color: black;
+              text-decotation: line-through;
+              text-decotation-color: grey
+}
+
+#test:visited {
+              color: grey;
+              text-decotation: line-through
+}

@@ -61,7 +61,7 @@ input {
 }
 
 input:focus {
-    color: red;
+    color: red !important;
 }
 
 input:enabled {

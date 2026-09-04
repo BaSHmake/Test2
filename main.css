@@ -85,3 +85,7 @@ p.text2:not(:empty) {
 #abv:first-letter {
                   color: brown;
 }
+
+pre:first-of-type {
+                  color: black;
+}

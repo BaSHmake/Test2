@@ -1,61 +1,67 @@
 h3 {
-   color: blue
+    color: blue;
 }
 
 .bob {
-     color: yellow
+    color: yellow;
 }
 
 #dod {
-     color: orange
+    color: orange;
 }
 
 div b {
-      color: pink
+    color: pink;
 }
 
 div p i, div small {
-                   color: purple
+    color: purple;
 }
 
 #test {
-      color: red;
-      text-decoration: none
+    color: red;
+    text-decoration: none;
 }
 
 #test:hover {
-            color: blue;
-            text-decoration: underline;
-            text-decoration-color: blue
-   
-}
-
-#text1 {
-       color: green;
-       text-decoration: none
-}
-
-#text1:hover {
-             color: grey;
-             text-decoration: uderline;
-             text-decoration-color: grey;
-             cursor: pointer 
-#text1:active {
-              color: black;
-              text-decoration: line-through;
-              text-decoration-color: grey
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blue;
 }
 
 #test:active {
-              color: black;
-              text-decoration: line-through;
-              text-decoration-color: grey
+    color: black;
+    text-decoration: line-through;
+    text-decoration-color: grey;
 }
 
 #test:visited {
-              color: grey;
-              text-decoration: line-through
+    color: grey;
+    text-decoration: line-through;
 }
 
-input {color: blue}
-input:focus {color: red}
+#text1 {
+    color: green;
+    text-decoration: none;
+}
+
+#text1:hover {
+    color: grey;
+    text-decoration: underline;
+    text-decoration-color: grey;
+    cursor: pointer;
+}
+
+#text1:active {
+    color: black;
+    text-decoration: line-through;
+    text-decoration-color: grey;
+}
+
+input {
+    color: blue;
+}
+
+input:focus {
+    color: red;
+}

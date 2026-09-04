@@ -65,3 +65,7 @@ input {
 input:focus {
     color: red;
 }
+
+input:enabled {
+    color: blue
+}

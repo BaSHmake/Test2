@@ -69,5 +69,10 @@ input:enabled {
 }
 
 p.text2:not(:empty) {
-                    color: yellow
+                    color: brown
 }
+
+#kvas:after {
+            content: "Вкус внутри разносит это, квас Закамский высший класс!!"
+            color: red
+}                                                                                  

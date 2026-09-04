@@ -67,3 +67,7 @@ input:focus {
 input:enabled {
     color: blue
 }
+
+p.text2:not(:empty) {
+                    color: yellow
+}

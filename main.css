@@ -36,7 +36,12 @@ div p i, div small {
 }
 
 #text1:hover {
-             color: black;
+             color: grey;
              text-decotation: uderline;
-             text-decotation-color: black;
-             cursor: pointer                         
+             text-decotation-color: grey;
+             cursor: pointer 
+#text1:active {
+              color: black;
+              text-decotation: line-through;
+              text-decotation-color: grey
+}

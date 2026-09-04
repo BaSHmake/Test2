@@ -81,3 +81,7 @@ p.text2:not(:empty) {
              content: "Три, Четыре";
              color: orange;
 }
+
+#abv:first-letter {
+                  color: brown;
+}

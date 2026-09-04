@@ -76,3 +76,8 @@ p.text2:not(:empty) {
             content: "Вкус внутри разносит это, квас Закамский высший класс!!";
             color: red;
 }                                                                                  
+
+#kvas:before {
+             content: "Три, Четыре";
+             color: orange;
+}

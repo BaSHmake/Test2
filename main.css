@@ -57,5 +57,5 @@ div p i, div small {
               text-decotation: line-through
 }
 
-input {color:blue}
+input {color: blue}
 input:focus {color: red}

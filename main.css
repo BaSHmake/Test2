@@ -20,41 +20,41 @@ div p i, div small {
 
 #test {
       color: red;
-      text-decotation: none
+      text-decoration: none
 }
 
 #test:hover {
             color: blue;
-            text-decotation: underline;
-            text-decotation-color: blue
+            text-decoration: underline;
+            text-decoration-color: blue
    
 }
 
 #text1 {
        color: green;
-       text-decotation: none
+       text-decoration: none
 }
 
 #text1:hover {
              color: grey;
-             text-decotation: uderline;
-             text-decotation-color: grey;
+             text-decoration: uderline;
+             text-decoration-color: grey;
              cursor: pointer 
 #text1:active {
               color: black;
-              text-decotation: line-through;
-              text-decotation-color: grey
+              text-decoration: line-through;
+              text-decoration-color: grey
 }
 
 #test:active {
               color: black;
-              text-decotation: line-through;
-              text-decotation-color: grey
+              text-decoration: line-through;
+              text-decoration-color: grey
 }
 
 #test:visited {
               color: grey;
-              text-decotation: line-through
+              text-decoration: line-through
 }
 
 input {color: blue}

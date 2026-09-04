@@ -32,7 +32,6 @@ div p i, div small {
 #test:active {
     color: black;
     text-decoration: line-through;
-    text-decoration-color: grey;
 }
 
 #test:visited {
@@ -48,7 +47,6 @@ div p i, div small {
 #text1:hover {
     color: grey;
     text-decoration: underline;
-    text-decoration-color: grey;
     cursor: pointer;
 }
 

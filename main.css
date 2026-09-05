@@ -72,12 +72,12 @@ p.text2:not(:empty) {
                     color: brown
 }
 
-#kvas:after {
+#kvas::after {
             content: "Вкус внутри разносит это, квас Закамский высший класс!!";
             color: red;
 }                                                                                  
 
-#kvas:before {
+#kvas::before {
              content: "Три, Четыре";
              color: orange;
 }
@@ -86,6 +86,8 @@ p.text2:not(:empty) {
                   color: brown;
 }
 
-pre:first-of-type {
-                  color: black;
+abbr:first-of-type {
+                  color: yellow;
 }
+
+abbr::after {

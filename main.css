@@ -91,3 +91,6 @@ abbr:first-of-type {
 }
 
 abbr::after {
+            content: attr(title);
+            color: yellow;
+}

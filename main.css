@@ -105,6 +105,10 @@ p.text2:not(:empty) {
                   color: brown;
 }
 
+#abv {
+     color: #700061;
+}
+
 abbr::first-of-type {
                   color: yellow;
 }

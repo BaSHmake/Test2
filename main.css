@@ -22,7 +22,10 @@ h1 {
    font-size: 40px;
    font-style: italic;
    font-weight: bold;
-   font-family: 'Georgia', serif;;
+   font-family: 'Georgia', serif;
+   text-decoration: none;
+   line-height: 150%;
+   letter-spacing: 3px;
 }
 
 h3 {

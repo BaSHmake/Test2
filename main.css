@@ -15,7 +15,10 @@ div {
      background-attachment: fixed;
 }
 
-
+h1 {
+   text-align: center;
+   text-size: 7 px;
+}
 
 h3 {
     color: blue;

@@ -7,12 +7,13 @@ body {
      /* background-size: cover */
 }                                           
 
-div {
+#div {
     background-image: url("00af6ce4d943c32a949b2e78aeffc5c0.jpg");
      background-repeat: no-repeat;
      background-position: center center;
      /* background: width="auto" height="auto"; */
      background-attachment: fixed;
+     min-height: 350px;
 }
 
 h1 {

@@ -1,9 +1,7 @@
 body {
-     background: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    font-weight: bold;
+     background: linear-gradient(135deg, #0b1a2e, #1a2f44, #2a1e3c, #0f0f0f);
+    min-height: 100vh;
+    margin: 0;
      background-image: url("");
      background-repeat: no-repeat;
      background-position: center center;

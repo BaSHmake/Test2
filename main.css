@@ -21,6 +21,8 @@ body {
  background: orange;
  height: 300px;
  width: 500px;
+ border: 12px solid yellow;
+ border-left-style: dotted;
 }
 
 h1 {

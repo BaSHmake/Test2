@@ -28,6 +28,7 @@ h1 {
    text-decoration: none;
    line-height: 150%;
    letter-spacing: 3px;
+   text-transform: capitalize;
 }
 
 h3 {

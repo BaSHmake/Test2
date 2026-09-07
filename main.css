@@ -30,6 +30,7 @@ h1 {
    word-spacing: 10px;
    letter-spacing: 3px;
    text-transform: capitalize;
+   cursor: copy
 }
 
 h3 {

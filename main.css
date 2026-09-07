@@ -27,6 +27,7 @@ h1 {
    font-family: 'Georgia', serif;
    text-decoration: none;
    line-height: 150%;
+   word-spacing: 10px;
    letter-spacing: 3px;
    text-transform: capitalize;
 }

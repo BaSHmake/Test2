@@ -33,7 +33,9 @@ body {
      border: 15px solid silver;
      border-radius: 50% 50%;
      opacity: 0.9;
-     margin: 50px 10px;
+     margin-top: 50px; /* можно добавить не к одной стороне и указать несколько значений*/
+     margin-botton: 40px;
+     
 }
 
 h1 {

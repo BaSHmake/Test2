@@ -35,6 +35,7 @@ body {
      opacity: 0.9;
      margin-top: 50px; /* можно добавить не к одной стороне и указать несколько значений*/
      margin-bottom: 40px;
+     padding: 160px;
      
 }
 

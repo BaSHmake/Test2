@@ -21,7 +21,7 @@ body {
  background: orange;
  height: 80px;
  width: 200px;
- border: 12px double yellow;
+ border: 8px double yellow;
  border-left-style: solid;
  border-radius: 15px;
 }
@@ -30,11 +30,11 @@ body {
  background: red;
      height: 180px;
      width: 180px;
-     border: 15px solid silver;
+     border: 5px solid silver;
      border-radius: 50% 50%;
      opacity: 0.9;
      margin-top: 50px; /* можно добавить не к одной стороне и указать несколько значений*/
-     margin-bottom: 40px;
+     margin: 40px;
      padding: 160px;
      
 }

@@ -24,6 +24,8 @@ body {
  border: 8px double yellow;
  border-left-style: solid;
  border-radius: 15px;
+ padding: 30px;
+ margin: 20px;
 }
 
 #krug {
@@ -36,7 +38,7 @@ body {
      margin-top: 50px; /* можно добавить не к одной стороне и указать несколько значений*/
      margin: 40px;
      padding: 160px;
-     
+     display: block;
 }
 
 h1 {

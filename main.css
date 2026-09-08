@@ -19,17 +19,17 @@ body {
 
 #block {
  background: orange;
- height: 300px;
- width: 500px;
- border: 12px solid yellow;
- border-left-style: dotted;
+ height: 80px;
+ width: 200px;
+ border: 12px double yellow;
+ border-left-style: solid;
  border-radius: 15px;
 }
 
 #krug {
  background: red;
-     height: 250px;
-     width: 250px;
+     height: 180px;
+     width: 180px;
      border: 15px solid silver;
      border-radius: 50% 50%;
      opacity: 0.9;

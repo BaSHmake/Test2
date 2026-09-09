@@ -43,6 +43,30 @@ body {
      align-items: center;
 }
 
+.kvadrat {
+ height: 150px;
+ width: 150px;
+ margin: 20px;
+ border-radius: 5px;
+ border: 4px double grey;
+}
+
+#r {
+     
+}
+
+#b {
+     
+}
+     
+#y {
+     
+}
+     
+#g {
+     
+}
+     
 #boom {
  font-size: 40px;
 }

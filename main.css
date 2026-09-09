@@ -30,14 +30,14 @@ body {
 
 #krug {
  background: red;
-     /* height: 200px;
-     width: 200px; */
+     height: 200px;
+     width: 200px;
      border: 5px solid silver;
      border-radius: 50% 50%;
      opacity: 0.9;
      margin-top: 50px; /* можно добавить не к одной стороне и указать несколько значений*/
      margin: 40px;
-     padding: 80px;
+     /* padding: 80px; */
      display: block;
      justify-content: center;
      align-items: center;

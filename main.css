@@ -52,23 +52,25 @@ body {
 }
 
 #r {
-     
+ color: red;
+ loap: left;
 }
 
 #b {
-     
+ color: blue;
+ loap: left;
 }
      
 #y {
-     
+ color: yellow;
 }
      
 #g {
-     
+ color: green;
 }
      
 #boom {
- font-size: 40px;
+ font-size: 100px;
 }
 
 h1 {

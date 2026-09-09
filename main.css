@@ -53,20 +53,22 @@ body {
 
 #r {
  color: red;
- loap: left;
+ float: left;
 }
 
 #b {
  color: blue;
- loap: left;
+ float: left;
 }
      
 #y {
  color: yellow;
+ float: left;
 }
      
 #g {
  color: green;
+ float: right
 }
      
 #boom {

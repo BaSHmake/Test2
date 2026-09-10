@@ -52,22 +52,22 @@ body {
 }
 
 #r {
- color: red;
+ background: red;
  float: left;
 }
 
 #b {
- color: blue;
+ background: blue;
  float: left;
 }
      
 #y {
- color: yellow;
+ background: yellow;
  float: left;
 }
      
 #g {
- color: green;
+ background: green;
  float: right
 }
      

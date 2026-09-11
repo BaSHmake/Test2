@@ -15,6 +15,9 @@ body {
      background-attachment: fixed;
      background-size: cover;
      min-height: 350px;
+     position: discovered
+       bottom: -50px;
+       right: -5px;
 }
 
 #block {

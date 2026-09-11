@@ -15,7 +15,7 @@ body {
      background-attachment: fixed;
      background-size: cover;
      min-height: 350px;
-     position: discovered
+     position: relative;
        bottom: -50px;
        right: -5px;
 }

@@ -5,6 +5,16 @@ body {
      background-position: center center;
      /* background: width="auto" height="auto"
       background-size: cover */
+}
+
+#plus {
+ position: absolute;
+ background: red;
+ color: white;
+ width: 75px;
+ height: 75px;
+ border: 2px solid silver;
+ border-radius: 50%;
 }                                           
 
 #div {

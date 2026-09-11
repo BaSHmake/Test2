@@ -9,12 +9,14 @@ body {
 
 #plus {
  position: absolute;
+ bottom: 15px;
  background: red;
  color: white;
  width: 75px;
  height: 75px;
  border: 2px solid silver;
  border-radius: 50%;
+ 
 }                                           
 
 #div {
